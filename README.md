@@ -17,7 +17,7 @@ I’ve had the pleasure of working in a variety of different environments. Here 
 
 > Older and some small positions have been omitted because of a lack of relevance.  
 
-### Software Engineer @ AuthArmor
+### Software Engineer @ Auth Armor
 **California, United States | April 2023 to Present**
 * Implemented an onboarding form in an existing ASP.NET Core server-rendered application using a progressive frontend framework.
 * Migrated Stripe setups from the older Charges API to the modern Setup Intents API.
