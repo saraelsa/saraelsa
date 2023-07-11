@@ -18,18 +18,18 @@ I’ve had the pleasure of working in a variety of different environments. Here 
 > Older and some small positions have been omitted because of a lack of relevance.  
 
 ### Software Engineer @ AuthArmor
-#### California, United States | April 2023 to Present
+**California, United States | April 2023 to Present**
 * Implemented an onboarding form in an existing ASP.NET Core server-rendered application using a progressive frontend framework.
 * Migrated Stripe setups from the older Charges API to the modern Setup Intents API.
 * Led a full redesign of the existing JavaScript client SDK to improve developer experience following user feedback.
 * Implemented samples to demonstrate the usage of the new JavaScript SDKs in various frameworks.
 
 ### Frontend Software Engineer @ Freelance Client
-#### Alberta, Canada | March 2023
+**Alberta, Canada | March 2023**
 * Ported [react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form), a library that allows building forms declaratively using a JSON-based schema, to Solid.js.
 
 ### Software Engineer @ Freelance Client
-#### Delaware, United States | December 2022 to March 2023
+**Delaware, United States | December 2022 to March 2023**
 * Created a payment gateway based on Stripe.
 * Identified critical security vulnerabilities and poor architectural decisions that were leading to bugs and making it harder to add new features.
 * Planned and rewrote the e-Commerce platform from scratch which reduced feature development costs, significantly eliminated bugs and increased resilience.
