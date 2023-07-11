@@ -33,7 +33,7 @@ I’ve had the pleasure of working in a variety of different environments. Here 
 **Delaware, United States | December 2022 to March 2023**
 * Created a payment gateway based on Stripe.
 * Identified critical security vulnerabilities and poor architectural decisions that were leading to bugs and making it harder to add new features.
-* Planned and rewrote the e-Commerce platform from scratch which reduced feature development costs, significantly eliminated bugs and increased resilience.
+* Planned and rewrote an e-Commerce platform from scratch which reduced feature development costs, significantly eliminated bugs and increased resilience.
 * Used Azure Cognitive Services for automatically sanitizing user-provided data like images.
 * Set up deployment pipelines that automatically deployed the application from its GitHub repository to Microsoft Azure.
 * Hand-wrote SQL queries where advanced features like ranking and grouping were needed to improve performance and reduce memory usage on critical endpoints.
