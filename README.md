@@ -22,6 +22,7 @@ I’ve had the pleasure of working in a variety of different environments. Here 
 * Implemented an onboarding form in an existing ASP.NET Core server-rendered application using a progressive frontend framework.
 * Migrated Stripe setups from the older Charges API to the modern Setup Intents API.
 * Led a full redesign of the existing JavaScript client SDK to improve developer experience following user feedback.
+* Created pipelines with Azure DevOps to automate package deployment to package repositories (both public and internal) and CDNs.
 * Implemented samples to demonstrate the usage of the new JavaScript SDKs in various frameworks.
 
 ### Frontend Software Engineer @ Freelance Client
