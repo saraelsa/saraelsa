@@ -1,7 +1,7 @@
 # Hi, I’m Sara! 👋 
 I’m a software engineer currently working at [US Med-Equip](https://usme.com/).  I don’t believe in marrying languages or frameworks, but I’m particularly fond of .NET, Angular, TypeScript and Rust.
 
-Besides programming, I enjoy learning languages (especially on [Duolingo](https://www.duolingo.com/profile/saraelsaz) where I have a 1-year+ streak!) and studying STEM. My favorite sport is ice hockey–even though I may not have gotten the opportunity to play it yet.
+Besides programming, I enjoy learning languages (especially on [Duolingo](https://www.duolingo.com/profile/saraelsaz) where I have a 2-year+ streak!) and studying STEM. My favorite sport is ice hockey and I also love dodgeball and frisbee.
 
 ## Projects I’m proud of
 I try to give all my projects my best, but there are some I’m especially proud of having built. Feel welcome to check them out any time–they’re open-source, right here on GitHub!
