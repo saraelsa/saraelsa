@@ -1,5 +1,5 @@
 # Hi, I’m Sara! 👋 
-I’m a software engineer currently working at [Auth Armor](https://autharmor.com/).  I don’t believe in marrying languages or frameworks, but I’m particularly fond of .NET, Angular, TypeScript and Rust.
+I’m a software engineer currently working at [US Med-Equip](https://usme.com/).  I don’t believe in marrying languages or frameworks, but I’m particularly fond of .NET, Angular, TypeScript and Rust.
 
 Besides programming, I enjoy learning languages (especially on [Duolingo](https://www.duolingo.com/profile/saraelsaz) where I have a 1-year+ streak!) and studying STEM. My favorite sport is ice hockey–even though I may not have gotten the opportunity to play it yet.
 
