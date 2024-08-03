@@ -52,4 +52,4 @@ I’ve had the pleasure of working in a variety of different environments. Here 
 * Hand-wrote SQL queries where advanced features like ranking and grouping were needed to improve performance and reduce memory usage on critical endpoints.
 
 ## Hire me
-Because my current position is part-time, I’m able to take on additional projects from other clients. If you’d like to hire me, please shoot me a message at [hello@saraelsa.net](mailto:hello@saraelsa.net). My rate is $65/hr.
+Because my current position is part-time, I’m able to take on additional projects from other clients. If you’d like to hire me, please shoot me a message at [hello@saraelsa.net](mailto:hello@saraelsa.net). My rate is C$90/hr.
