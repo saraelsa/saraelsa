@@ -17,13 +17,26 @@ I’ve had the pleasure of working in a variety of different environments. Here 
 
 > Older and some small positions have been omitted because of a lack of relevance.  
 
+### IdentityServer, Azure and .NET Specialist @ US Med-Equip
+**Texas, United States | April 2024 to Present**
+* Added Azure Configuration support to the identity provider application.
+* Managed and supported the IdentityServer4-based multi-tenant identity provider application, including bug fixes and new features.
+* Migrated the identity provider application to .NET 8, adding support for Azure App Configuration to prepare for an eventual migration to OpenIddict.
+
 ### Software Engineer @ Auth Armor
-**California, United States | April 2023 to Present**
+**California, United States | April 2023 to July 2024**
 * Implemented an onboarding form in an existing ASP.NET Core server-rendered application using a progressive frontend framework.
 * Migrated Stripe setups from the older Charges API to the modern Setup Intents API.
 * Led a full redesign of the existing JavaScript client SDK to improve developer experience following user feedback.
 * Created pipelines with Azure DevOps to automate package deployment to package repositories (both public and internal) and CDNs.
 * Implemented samples to demonstrate the usage of the new JavaScript SDKs in various frameworks.
+
+### Senior C#/.NET Developer @ ObserveID
+**California, United States | November 2023 to April 2024**
+* Analyzed the Microsoft Azure platform to identify potential opportunities for threat detection over two different API surfaces covering the entirety of modern Azure.
+* Wrote a program to collect data from Microsoft Azure for threat detection and prevention with over four data points supported.
+* Inspected and analyzed open-source libraries by Microsoft to collect sparsely documented information about the Azure platform.
+* Wrote a program to analyze Azure's OpenAPI specification and traverse its API surface.
 
 ### Frontend Software Engineer @ Freelance Client
 **Alberta, Canada | March 2023**
