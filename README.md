@@ -21,7 +21,7 @@ I’ve had the pleasure of working in a variety of different environments. Here 
 **Texas, United States | April 2024 to Present**
 * Added Azure Configuration support to the identity provider application.
 * Managed and supported the IdentityServer4-based multi-tenant identity provider application, including bug fixes and new features.
-* Migrated the identity provider application to .NET 8, adding support for Azure App Configuration to prepare for an eventual migration to OpenIddict.
+* Migrated the identity provider application to .NET 8, adding support for Azure App Configuration and moving away from IdentityServer4 to OpenIddict.
 
 ### Software Engineer @ Auth Armor
 **California, United States | April 2023 to July 2024**
